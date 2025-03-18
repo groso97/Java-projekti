@@ -1,0 +1,23 @@
+.button {
+    -fx-background-color: #D0CBBE;
+}
+
+.buttonZnakJednakosti{
+    -fx-background-color: #E0B535;
+}
+
+.button:hover {
+    -fx-background-color: rgba(220, 129, 11, 0.78);
+}
+
+.vbox {
+    -fx-background-color: #FFFFFF;
+}
+
+.text-area{
+    -fx-background-color: #DEB12B;
+}
+
+.gridPane{
+    -fx-background-color: #F0F0F0;
+}

@@ -1,0 +1,14 @@
+rješeno! Exception Handling: Dodaj kod koji će obrađivati greške prilikom unosa podataka ili prilikom izvršavanja operacija, na primjer, dijeljenje s nulom ili unos slova umjesto brojeva.
+
+rješeno! kvadriranje i korijenovanje....Dodatne Operacije: Razmisli o dodavanju drugih matematičkih operacija poput korijenovanja, stepenovanja ili modulo operacije.
+
+rješeno! Više Brojeva: Omogući korisnicima da unesu više od dva broja za operacije kao što je zbrajanje ili množenje.
+
+Pohrana Rezultata: Omogući korisnicima da pohrane rezultat izračuna ili koristi rezultat jedne operacije kao ulaz za drugu.
+
+Grafičko Korisničko Sučelje (GUI): Ako se želiš izazvati, možeš napraviti GUI kalkulator koji će korisnicima omogućiti interakciju putem grafičkog sučelja umjesto konzole.
+
+Međurezultati: Ako implementiraš složenije operacije, razmisli o prikazu međurezultata kako bi korisnici imali bolji uvid u to kako se kalkulacija izvodi.
+
+Opcije Izlaza: Omogući korisnicima da izađu iz programa ili da ponove kalkulaciju bez potrebe za ponovnim pokretanjem programa.
+
